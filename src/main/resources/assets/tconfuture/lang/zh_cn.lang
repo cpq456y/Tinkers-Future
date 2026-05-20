@@ -1,0 +1,7 @@
+item.tconfuture.cheese_ingot.name=奶酪
+item.tconfuture.cheese_block.name=奶酪块
+item.tconfuture.cheese.tooltip=食用后随机移除身上的一种状态效果
+
+item.tconfuture.jeweled_apple.name=宝钻苹果
+item.tconfuture.jeweled_apple_potion3.tooltip=急迫
+item.tconfuture.jeweled_apple_potion11.tooltip=抗性提升

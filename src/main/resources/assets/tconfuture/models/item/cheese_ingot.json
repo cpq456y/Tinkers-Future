@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "utcon3to2:items/materials/cheese_ingot"
+        "layer0": "tconfuture:item/materials/cheese_ingot"
     }
 }

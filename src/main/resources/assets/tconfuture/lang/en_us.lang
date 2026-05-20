@@ -1,0 +1,7 @@
+item.tconfuture.cheese_ingot.name=Cheese Ingot
+item.tconfuture.cheese_block.name=Cheese Block
+item.tconfuture.cheese.tooltip=Removes a random effect when eaten
+
+item.tconfuture.jeweled_apple.name=Jeweled Apple
+item.tconfuture.jeweled_apple_potion3.tooltip=Big Speed
+item.tconfuture.jeweled_apple_potion11.tooltip=Damage Resistance
