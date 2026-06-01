@@ -57,9 +57,9 @@ dependencies {
     // compileOnly = 编译依赖
     // annotationProcessor = 注解处理依赖
     // embed = 将依赖项打包到最终输出工件中（不重定位）
-    implementation("curse.maven:mantle-74924:2713386")
-    implementation("curse.maven:tinkers-construct-74072:2902483")
-    //implementation("curse.maven:tinkers-antique-1242239:7999105")
+    implementation rfg.deobf("curse.maven:mantle-74924:2713386")
+    implementation rfg.deobf("curse.maven:tinkers-construct-74072:2902483")
+    //implementation rfg.deobf("curse.maven:tinkers-antique-1242239:7999105")
     runtimeOnly("curse.maven:jei-238222:5846804")
     runtimeOnly("curse.maven:just-enough-characters-250702:7424367")
     runtimeOnly("curse.maven:jei-integration-265917:2951731")
