@@ -1,0 +1,8 @@
+{
+    "parent": "block/iron_bars_cap_alt",
+    "textures": {
+        "particle": "tconfuture:block/gold_bars",
+        "bars":     "tconfuture:block/gold_bars",
+        "edge":     "tconfuture:block/gold_bars"
+    }
+}

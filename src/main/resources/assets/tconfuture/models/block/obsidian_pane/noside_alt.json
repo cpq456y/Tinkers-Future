@@ -1,0 +1,6 @@
+{
+  "parent": "tconfuture:block/template/pane/noside_alt",
+  "textures": {
+    "pane": "minecraft:blocks/obsidian"
+  }
+}

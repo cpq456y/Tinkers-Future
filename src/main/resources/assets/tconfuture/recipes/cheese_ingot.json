@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tconfuture:cheese_block"
+    }
+  ],
+  "result": {
+    "item": "tconfuture:cheese_ingot",
+    "count": 4
+  }
+}

@@ -1,7 +1,7 @@
 package io.github.kelin.tconfuture.shared.item;
 
 import io.github.kelin.tconfuture.Tags;
-import io.github.kelin.tconfuture.shared.TinkerCommons;
+import io.github.kelin.tconfuture.shared.TinkerCommon;
 import io.github.kelin.tconfuture.shared.TinkerFood;
 import net.minecraft.client.resources.I18n;
 import net.minecraft.client.util.ITooltipFlag;
@@ -36,7 +36,7 @@ public class CheeseBlockItem extends ItemFood {
             player.playSound(SoundEvents.ENTITY_PLAYER_BURP, 0.5f, 1.0f);
 
             if (!player.capabilities.isCreativeMode) {
-                ItemStack cheese = new ItemStack(TinkerCommons.cheeseIngot, 3);
+                ItemStack cheese = new ItemStack(TinkerCommon.cheeseIngot, 3);
                 if (!player.inventory.addItemStackToInventory(cheese)) {
                     player.dropItem(cheese, false);
                 }

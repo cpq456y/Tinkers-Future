@@ -1,0 +1,169 @@
+[
+  {
+    "category": "materials",
+    "description": "材料贴图映射",
+    "mappings": [
+      {
+        "1.20.1_source": "textures/item/materials/cobalt_ingot.png",
+        "1.12_target": "textures/items/materials/ingot_cobalt.png",
+        "note": "钴锭"
+      },
+      {
+        "1.20.1_source": "textures/item/materials/cobalt_nugget.png",
+        "1.12_target": "textures/items/materials/nugget_cobalt.png",
+        "note": "钴粒"
+      },
+      {
+        "1.20.1_source": "textures/item/materials/ardite_ingot.png",
+        "1.12_target": "textures/items/materials/ingot_ardite.png",
+        "note": "阿迪特锭"
+      },
+      {
+        "1.20.1_source": "textures/item/materials/ardite_nugget.png",
+        "1.12_target": "textures/items/materials/nugget_ardite.png",
+        "note": "阿迪特粒"
+      },
+      {
+        "1.20.1_source": "textures/item/materials/manyullyn_ingot.png",
+        "1.12_target": "textures/items/materials/ingot_manyullyn.png",
+        "note": "玛玉灵锭"
+      },
+      {
+        "1.20.1_source": "textures/item/materials/manyullyn_nugget.png",
+        "1.12_target": "textures/items/materials/nugget_manyullyn.png",
+        "note": "玛玉灵粒"
+      },
+      {
+        "1.20.1_source": "textures/item/materials/pigiron_ingot.png",
+        "1.12_target": "textures/items/materials/ingot_pigiron.png",
+        "note": "生铁锭"
+      },
+      {
+        "1.20.1_source": "textures/item/materials/pigiron_nugget.png",
+        "1.12_target": "textures/items/materials/nugget_pigiron.png",
+        "note": "生铁粒"
+      },
+      {
+        "1.20.1_source": "textures/item/materials/knightslime_ingot.png",
+        "1.12_target": "textures/items/materials/ingot_knightslime.png",
+        "note": "骑士史莱姆锭"
+      },
+      {
+        "1.20.1_source": "textures/item/materials/knightslime_nugget.png",
+        "1.12_target": "textures/items/materials/nugget_knightslime.png",
+        "note": "骑士史莱姆粒"
+      },
+      {
+        "1.20.1_source": "textures/item/materials/necrotic_bone.png",
+        "1.12_target": "textures/items/materials/necrotic_bone.png",
+        "note": "坏死骨头"
+      },
+      {
+        "1.20.1_source": "textures/item/materials/dried_brick.png",
+        "1.12_target": "textures/items/materials/dried_brick.png",
+        "note": "干砖"
+      },
+      {
+        "1.20.1_source": "textures/item/materials/seared_brick.png",
+        "1.12_target": "textures/items/materials/seared_brick.png",
+        "note": "焦黑砖"
+      },
+      {
+        "1.20.1_source": "textures/item/materials/silky_cloth.png",
+        "1.12_target": "textures/items/materials/silky_cloth.png",
+        "note": "丝绸"
+      },
+      {
+        "1.20.1_source": "textures/item/materials/silky_jewel.png",
+        "1.12_target": "textures/items/materials/silky_jewel.png",
+        "note": "丝绸宝石"
+      },
+      {
+        "1.20.1_source": "textures/item/materials/stone_rod.png",
+        "1.12_target": "textures/items/materials/stone_rod.png",
+        "note": "石棒"
+      },
+      {
+        "1.20.1_source": "textures/item/materials/moss.png",
+        "1.12_target": "textures/items/materials/moss.png",
+        "note": "苔藓"
+      },
+      {
+        "1.20.1_source": "textures/item/materials/mending_moss.png",
+        "1.12_target": "textures/items/materials/mending_moss.png",
+        "note": "修补苔藓"
+      },
+      {
+        "1.20.1_source": "textures/item/materials/reinforcement.png",
+        "1.12_target": "textures/items/materials/reinforcement.png",
+        "note": "强化"
+      },
+      {
+        "1.20.1_source": "textures/item/materials/expander_w.png",
+        "1.12_target": "textures/items/materials/expander_w.png",
+        "note": "扩展器 W"
+      },
+      {
+        "1.20.1_source": "textures/item/materials/expander_h.png",
+        "1.12_target": "textures/items/materials/expander_h.png",
+        "note": "扩展器 H"
+      },
+      {
+        "1.20.1_source": "textures/item/materials/raw_cobalt.png",
+        "1.12_target": "textures/items/materials/raw_cobalt.png",
+        "note": "粗钴"
+      },
+      {
+        "1.20.1_source": "textures/item/materials/steel_ingot.png",
+        "1.12_target": "textures/items/materials/ingot_steel.png",
+        "note": "钢锭 (如果1.12有)"
+      },
+      {
+        "1.20.1_source": "textures/item/materials/steel_nugget.png",
+        "1.12_target": "textures/items/materials/nugget_steel.png",
+        "note": "钢粒 (如果1.12有)"
+      }
+    ]
+  },
+  {
+    "category": "blocks",
+    "description": "方块贴图映射",
+    "mappings": [
+      {
+        "1.20.1_source": "textures/block/storage/cobalt.png",
+        "1.12_target": "textures/blocks/block_cobalt.png",
+        "note": "钴块"
+      },
+      {
+        "1.20.1_source": "textures/block/cobalt_ore.png",
+        "1.12_target": "textures/blocks/ore_cobalt.png",
+        "note": "钴矿石"
+      },
+      {
+        "1.20.1_source": "textures/block/storage/manyullyn.png",
+        "1.12_target": "textures/blocks/block_manyullyn.png",
+        "note": "玛玉灵块"
+      },
+      {
+        "1.20.1_source": "textures/block/storage/ardite.png",
+        "1.12_target": "textures/blocks/block_ardite.png",
+        "note": "阿迪特块"
+      },
+      {
+        "1.20.1_source": "textures/block/storage/ardite_top.png",
+        "1.12_target": "textures/blocks/block_ardite_top.png",
+        "note": "阿迪特块顶部"
+      },
+      {
+        "1.20.1_source": "textures/block/storage/pig_iron/back.png",
+        "1.12_target": "textures/blocks/block_pigiron.png",
+        "note": "生铁块"
+      },
+      {
+        "1.20.1_source": "textures/block/storage/knightslime.png",
+        "1.12_target": "textures/blocks/block_knightslime.png",
+        "note": "骑士史莱姆块"
+      }
+    ]
+  }
+]

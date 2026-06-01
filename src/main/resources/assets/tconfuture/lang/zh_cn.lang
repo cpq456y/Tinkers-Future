@@ -1,3 +1,11 @@
+tile.tconfuture.obsidian_pane.name=黑曜石板
+tile.tconfuture.gold_bars.name=金栏杆
+
+tile.tconfuture.copper_ore.name=铜矿石
+tile.tconfuture.copper_block.name=铜块
+item.tconfuture.copper_ingot.name=铜锭
+item.tconfuture.copper_nugget.name=铜粒
+
 item.tconfuture.cheese_ingot.name=奶酪
 item.tconfuture.cheese_block.name=奶酪块
 item.tconfuture.cheese.tooltip=食用后随机移除身上的一种状态效果
@@ -5,3 +13,15 @@ item.tconfuture.cheese.tooltip=食用后随机移除身上的一种状态效果
 item.tconfuture.jeweled_apple.name=宝钻苹果
 item.tconfuture.jeweled_apple_potion3.tooltip=急迫
 item.tconfuture.jeweled_apple_potion11.tooltip=抗性提升
+
+fluid.tconfuture.earth_slime=大地黏液
+
+fluid.tconfuture.blazing_blood=烈焰血
+
+fluid.tconfuture.molten_quartz=熔融石英
+
+fluid.tconfuture.molten_diamond=熔融钻石
+
+fluid.tconfuture.molten_copper=熔融铜
+
+fluid.tconfuture.molten_slimesteel=熔融黏钢

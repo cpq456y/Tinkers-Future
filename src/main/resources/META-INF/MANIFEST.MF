@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+FMLCorePlugin: io.github.kelin.tconfuture.asm.TinkersFutureCorePlugin
+FMLCorePluginContainsFMLMod: true

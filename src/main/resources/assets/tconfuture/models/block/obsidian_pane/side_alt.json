@@ -1,0 +1,7 @@
+{
+  "parent": "tconfuture:block/template/pane/side_alt",
+  "textures": {
+    "edge": "minecraft:blocks/obsidian",
+    "pane": "minecraft:blocks/obsidian"
+  }
+}

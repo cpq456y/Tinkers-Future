@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "tconfuture:copper_block"
+    }
+  },
+  "result": {
+    "item": "tconfuture:copper_ingot",
+    "count": 9
+  }
+}

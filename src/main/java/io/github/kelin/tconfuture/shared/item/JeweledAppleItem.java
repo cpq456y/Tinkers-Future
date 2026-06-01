@@ -18,6 +18,7 @@ import java.util.List;
 public class JeweledAppleItem extends ItemFood {
     public  JeweledAppleItem() {
         super(TinkerFood.JEWELED_APPLE_HUNGER, TinkerFood.JEWELED_APPLE_SATURATION, false);
+        setAlwaysEdible();
     }
 
     @Override

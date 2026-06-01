@@ -1,3 +1,11 @@
+tile.tconfuture.obsidian_pane.name=Obsidian Pane
+tile.tconfuture.gold_bars.name=Gold Bars
+
+tile.tconfuture.copper_ore.name=Copper Ore
+tile.tconfuture.copper_block.name=Copper Block
+item.tconfuture.copper_ingot.name=Copper Ingot
+item.tconfuture.copper_nugget.name=Copper Nugget
+
 item.tconfuture.cheese_ingot.name=Cheese Ingot
 item.tconfuture.cheese_block.name=Cheese Block
 item.tconfuture.cheese.tooltip=Removes a random effect when eaten
@@ -5,3 +13,15 @@ item.tconfuture.cheese.tooltip=Removes a random effect when eaten
 item.tconfuture.jeweled_apple.name=Jeweled Apple
 item.tconfuture.jeweled_apple_potion3.tooltip=Big Speed
 item.tconfuture.jeweled_apple_potion11.tooltip=Damage Resistance
+
+fluid.tconfuture.earth_slime=Earth Slime
+
+fluid.tconfuture.blazing_blood=Blazing Blood
+
+fluid.tconfuture.molten_quartz=Molten Quartz
+
+fluid.tconfuture.molten_diamond=Molten Diamond
+
+fluid.tconfuture.molten_copper=Molten Copper
+
+fluid.tconfuture.molten_slimesteel=Molten Slimesteel
